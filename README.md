@@ -48,28 +48,3 @@ Atualmente, estou aprimorando meus conhecimentos em **Java**, algoritmos e desen
 ### 📌 Projetos em destaque
 
 Em breve, projetos desenvolvidos durante meus estudos em Java e desenvolvimento Back-End.
-
----
-
-### 📊 Estatísticas do GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alyssonotoniel&show_icons=true&theme=default" alt="Estatísticas do GitHub" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alyssonotoniel&layout=compact&theme=default" alt="Linguagens mais utilizadas" />
-</p>
-
----
-
-### 📬 Contato
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/alyssonotoniel/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:alyssonotonielbusi@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
